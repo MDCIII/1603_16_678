@@ -21,6 +21,9 @@
     rdfs:label "(1603:16:678:1)" ;
     skos:member <urn:mdciii:1603:16:678:1:2> .
 
+<urn:mdciii:1603:16:678:1(1)>
+    a owl:Ontology .
+
 <urn:mdciii:1603:16:678:1:1>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
