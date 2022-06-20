@@ -28,41 +28,48 @@
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:1> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:2:101" .
+    rdfs:label "1603:16:678:2:101" ;
+    skos:prefLabel "Pagué"@por-Latn .
 
 <urn:mdciii:1603:16:678:2:201>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:2:201" .
+    rdfs:label "1603:16:678:2:201" ;
+    skos:prefLabel "Água Grande"@por-Latn .
 
 <urn:mdciii:1603:16:678:2:202>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:2:202" .
+    rdfs:label "1603:16:678:2:202" ;
+    skos:prefLabel "Cantagalo"@por-Latn .
 
 <urn:mdciii:1603:16:678:2:203>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:2:203" .
+    rdfs:label "1603:16:678:2:203" ;
+    skos:prefLabel "Caué"@por-Latn .
 
 <urn:mdciii:1603:16:678:2:204>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:2:204" .
+    rdfs:label "1603:16:678:2:204" ;
+    skos:prefLabel "Lembá"@por-Latn .
 
 <urn:mdciii:1603:16:678:2:205>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:2:205" .
+    rdfs:label "1603:16:678:2:205" ;
+    skos:prefLabel "Lobata"@por-Latn .
 
 <urn:mdciii:1603:16:678:2:206>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:2:206" .
+    rdfs:label "1603:16:678:2:206" ;
+    skos:prefLabel "Mé-Zóchi"@por-Latn .
 

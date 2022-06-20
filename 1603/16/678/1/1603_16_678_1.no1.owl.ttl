@@ -27,10 +27,12 @@
 <urn:mdciii:1603:16:678:1:1>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:1:1" .
+    rdfs:label "1603:16:678:1:1" ;
+    skos:prefLabel "Príncipe"@por-Latn .
 
 <urn:mdciii:1603:16:678:1:2>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:0> ;
     a obo:BFO_0000029, owl:Thing, skos:Concept ;
-    rdfs:label "1603:16:678:1:2" .
+    rdfs:label "1603:16:678:1:2" ;
+    skos:prefLabel "São Tomé"@por-Latn .
 
