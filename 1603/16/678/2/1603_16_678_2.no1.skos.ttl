@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,35 +26,42 @@
 <urn:mdciii:1603:16:678:2:101>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:2:101" ;
-    skos:prefLabel "Pagué"@por-Latn .
+    skos:prefLabel "Pagué"@por-Latn ;
+    wdata:q7200235 "ST0101" .
 
 <urn:mdciii:1603:16:678:2:201>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:2:201" ;
-    skos:prefLabel "Água Grande"@por-Latn .
+    skos:prefLabel "Água Grande"@por-Latn ;
+    wdata:q7200235 "ST0201" .
 
 <urn:mdciii:1603:16:678:2:202>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:2:202" ;
-    skos:prefLabel "Cantagalo"@por-Latn .
+    skos:prefLabel "Cantagalo"@por-Latn ;
+    wdata:q7200235 "ST0202" .
 
 <urn:mdciii:1603:16:678:2:203>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:2:203" ;
-    skos:prefLabel "Caué"@por-Latn .
+    skos:prefLabel "Caué"@por-Latn ;
+    wdata:q7200235 "ST0203" .
 
 <urn:mdciii:1603:16:678:2:204>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:2:204" ;
-    skos:prefLabel "Lembá"@por-Latn .
+    skos:prefLabel "Lembá"@por-Latn ;
+    wdata:q7200235 "ST0204" .
 
 <urn:mdciii:1603:16:678:2:205>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:2:205" ;
-    skos:prefLabel "Lobata"@por-Latn .
+    skos:prefLabel "Lobata"@por-Latn ;
+    wdata:q7200235 "ST0205" .
 
 <urn:mdciii:1603:16:678:2:206>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:2:206" ;
-    skos:prefLabel "Mé-Zóchi"@por-Latn .
+    skos:prefLabel "Mé-Zóchi"@por-Latn ;
+    wdata:q7200235 "ST0206" .
 

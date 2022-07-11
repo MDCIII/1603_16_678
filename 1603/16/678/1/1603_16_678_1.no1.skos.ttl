@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,10 +26,12 @@
 <urn:mdciii:1603:16:678:1:1>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:1:1" ;
-    skos:prefLabel "Príncipe"@por-Latn .
+    skos:prefLabel "Príncipe"@por-Latn ;
+    wdata:q7200235 "ST01" .
 
 <urn:mdciii:1603:16:678:1:2>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:678:1:2" ;
-    skos:prefLabel "São Tomé"@por-Latn .
+    skos:prefLabel "São Tomé"@por-Latn ;
+    wdata:q7200235 "ST02" .
 
