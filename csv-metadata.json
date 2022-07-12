@@ -1,9 +1,6 @@
 {
   "@context": [
-    "http://www.w3.org/ns/csvw",
-    {
-      "@language": "la"
-    }
+    "http://www.w3.org/ns/csvw"
   ],
   "tables": [
     {
@@ -43,7 +40,8 @@
             "datatype": "string"
           }
         ],
-        "foreignKeys": []
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:678:0:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
       }
     },
     {
@@ -95,7 +93,8 @@
             "datatype": "string"
           }
         ],
-        "foreignKeys": []
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:678:1:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
       }
     },
     {
@@ -159,7 +158,8 @@
             "datatype": "string"
           }
         ],
-        "foreignKeys": []
+        "primaryKey": "qcc-Zxxx-r-aMDCIII-alatcodicem-anop",
+        "propertyUrl": "urn:mdciii:1603:16:678:2:{qcc-Zxxx-r-aMDCIII-alatcodicem-anop}"
       }
     }
   ]
