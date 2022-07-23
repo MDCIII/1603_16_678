@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:1> ;
     skos:prefLabel "Pagué"@por-Latn ;
-    wdata:q7200235 "ST0101" ;
+    wdata:Q7200235 "ST0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -53,7 +53,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     skos:prefLabel "Água Grande"@por-Latn ;
-    wdata:q7200235 "ST0201" ;
+    wdata:Q7200235 "ST0201" ;
 .
 
 <urn:mdciii:1603:16:678:2:202>
@@ -65,7 +65,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     skos:prefLabel "Cantagalo"@por-Latn ;
-    wdata:q7200235 "ST0202" ;
+    wdata:Q7200235 "ST0202" ;
 .
 
 <urn:mdciii:1603:16:678:2:203>
@@ -77,7 +77,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     skos:prefLabel "Caué"@por-Latn ;
-    wdata:q7200235 "ST0203" ;
+    wdata:Q7200235 "ST0203" ;
 .
 
 <urn:mdciii:1603:16:678:2:204>
@@ -89,7 +89,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     skos:prefLabel "Lembá"@por-Latn ;
-    wdata:q7200235 "ST0204" ;
+    wdata:Q7200235 "ST0204" ;
 .
 
 <urn:mdciii:1603:16:678:2:205>
@@ -101,7 +101,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     skos:prefLabel "Lobata"@por-Latn ;
-    wdata:q7200235 "ST0205" ;
+    wdata:Q7200235 "ST0205" ;
 .
 
 <urn:mdciii:1603:16:678:2:206>
@@ -113,6 +113,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:678:1:2> ;
     skos:prefLabel "Mé-Zóchi"@por-Latn ;
-    wdata:q7200235 "ST0206" ;
+    wdata:Q7200235 "ST0206" ;
 .
 

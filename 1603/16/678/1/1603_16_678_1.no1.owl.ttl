@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:678:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:0> ;
     skos:prefLabel "Príncipe"@por-Latn ;
-    wdata:q7200235 "ST01" ;
+    wdata:Q7200235 "ST01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -45,6 +45,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:678:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:678:0> ;
     skos:prefLabel "São Tomé"@por-Latn ;
-    wdata:q7200235 "ST02" ;
+    wdata:Q7200235 "ST02" ;
 .
 
