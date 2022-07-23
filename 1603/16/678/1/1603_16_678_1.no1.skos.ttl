@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:678()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:678:1:1" ;
     skos:prefLabel "Príncipe"@por-Latn ;
-    wdata:q7200235 "ST01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -40,6 +38,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:678:1:2" ;
     skos:prefLabel "São Tomé"@por-Latn ;
-    wdata:q7200235 "ST02" ;
 .
 
